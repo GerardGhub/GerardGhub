@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GerardGhub
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning Technologies trend as FullStack Developer
-- 💞️ I’m looking to collaborate on external projects
+- 💞️ I’m looking for the new opportunity
 - 📫 How to reach me : https://www.linkedin.com/in/gerardsingian/
 
 <!---
