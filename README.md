@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @GerardGhub
 - 👀 I’m interested in PROGRAMMING
+
+
+
+<br>
 http://gerardandreginabelle.lovestoblog.com/
 
 <!---
